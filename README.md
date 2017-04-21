@@ -1,4 +1,2 @@
 # hello
-hhhd
-helloeer
-atomeditest
+my test project ,test github with atom
